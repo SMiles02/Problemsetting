@@ -4,7 +4,7 @@
 
 | # | Title | Type | Rated | Date of Contest | Registrants | Role |
 | --- | ----- | ----- | --- | ------- | --- | ---- |
-8 | [Codeforces Round 940](https://codeforces.com/contest/1957) | Div. X | Yes | 21/Apr/2024 | 26,432 | Coordinator
+8 | [Codeforces Round 940](https://codeforces.com/contest/1957) | Div. 2 | Yes | 21/Apr/2024 | 26,432 | Coordinator
 7 | [Codeforces Round 902](https://codeforces.com/contest/1876) | Div. 1 & 2 | Yes | 08/Oct/2023 | 22,444 | Coordinator
 6 | [Codeforces Round 877](https://codeforces.com/contest/1838) | Div. 2 | Yes | 04/Jun/2023 | 31,174 | Coordinator
 5 | [April Fools Day Contest 2023](https://codeforces.com/contest/1812) | All | No | 01/Apr/2023 | 19,337 | Problemsetter
