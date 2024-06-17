@@ -23,8 +23,8 @@ Last updated: 17/06/2024
 
 | # | Competition Name | Location | Date of Contest | Role |
 | --- | ----- | ---- | ------- | ---- |
-| 2 | [Western European Olympiad in Informatics 2024](https://weoi.org/weoi-2023/) | London, UK | 29/Jun/2024 | International Scientific Committee |
-| 1 | [Western European Olympiad in Informatics 2023](https://weoi.org/weoi-2024/) | Amsterdam, Netherlands | 17/Jun/2023 | International Scientific Committee |
+| 2 | [Western European Olympiad in Informatics 2024](https://weoi.org/weoi-2024/) | London, UK | 29/Jun/2024 | International Scientific Committee |
+| 1 | [Western European Olympiad in Informatics 2023](https://weoi.org/weoi-2023/) | Amsterdam, Netherlands | 17/Jun/2023 | International Scientific Committee |
 
 <!--- | X | [Olympiad Name](https://suneetmahajan.com/) | City, Country | DD/Mon/202Y | Role Name | --->
 
