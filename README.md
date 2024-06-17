@@ -16,4 +16,12 @@ Last updated: 17/06/2024
 2 | [Codeforces Round 766](https://codeforces.com/contest/1627) | Div. 2 | Yes | 15/Jan/2022 | 23,434 | Problemsetter
 1 | [Codeforces Round 742](https://codeforces.com/contest/1567) | Div. 2 | Yes | 05/Sep/2021 | 22,125 | Problemsetter
 
-<!--- X | [Codeforces Round XXX](https://codeforces.com/contest/XXXX) | Div. X | Yes | XX/Mon/202X | XX,XXX | ? --->
+<!--- X | [Codeforces Round XXX](https://codeforces.com/contest/XXXX) | Div. X | Yes | DD/Mon/202Y | XX,XXX | ? --->
+
+## International Olympiads
+| # | Competition Name | Location | Date of Contest | Role |
+| --- | ----- | ---- | ------- | ---- |
+| 2 | [Western European Olympiad in Informatics 2024](https://weoi.org/weoi-2023/) | London, UK | 29/Jun/2024 | International Scientific Committee |
+| 1 | [Western European Olympiad in Informatics 2023](https://weoi.org/weoi-2024/) | Amsterdam, Netherlands | 17/Jun/2023 | International Scientific Committee |
+
+<!--- X | [Olympiad Name](https://suneetmahajan.com/) | City, Country | DD/Mon/202Y | Role Name |
