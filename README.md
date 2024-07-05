@@ -6,10 +6,10 @@ Last updated: 17/06/2024
 
 | # | Title | Type | Rated | Date of Contest | Registrants | Role |
 | --- | ----- | ----- | --- | ------- | --- | ---- |
-10 | [Codeforces Round TBA](https://codeforces.com/contest/1983) | Div. 2 | Yes | 07/Jul/2024 | TBA | Coordinator
+10 | [Codeforces Round 956](https://codeforces.com/contest/1983) | Div. 2 | Yes | 07/Jul/2024 | TBA | Coordinator
 9 | [Helvetic Coding Contest 2024](https://codeforces.com/contest/1970) | All | No | 04/May/2024 | 5,583 | Problemsetter
-8 | [Codeforces Round 940](https://codeforces.com/contest/1957) | Div. 2 | Yes | 21/Apr/2024 | 26,432 | Coordinator
-7 | [Codeforces Round 902](https://codeforces.com/contest/1876) | Div. 1 & 2 | Yes | 08/Oct/2023 | 22,444 | Coordinator
+8 | [Codeforces Round 940 and CodeCraft-23](https://codeforces.com/contest/1957) | Div. 2 | Yes | 21/Apr/2024 | 26,432 | Coordinator
+7 | [Codeforces Round 902 and COMPFEST 15 - Final Round](https://codeforces.com/contest/1876) | Div. 1 & 2 | Yes | 08/Oct/2023 | 22,444 | Coordinator
 6 | [Codeforces Round 877](https://codeforces.com/contest/1838) | Div. 2 | Yes | 04/Jun/2023 | 31,174 | Coordinator
 5 | [April Fools Day Contest 2023](https://codeforces.com/contest/1812) | All | No | 01/Apr/2023 | 19,337 | Problemsetter
 4 | [Codeforces Round 836](https://codeforces.com/contest/1758) | Div. 2 | Yes | 25/Nov/2022 | 20,592 | Problemsetter
