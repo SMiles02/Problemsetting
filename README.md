@@ -1,8 +1,10 @@
 # Problemsetting & Contest Coordination
 
-Last updated: 07/07/2024
+Last updated: 03/10/2024
 
 ## Codeforces
+
+Coordinated rounds in progress: 3
 
 | # | Title | Type | Rated | Blog | Date of Contest | Registrants | Role |
 | --- | ----- | ----- | --- | --- | ------- | --- | ---- |
