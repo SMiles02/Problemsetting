@@ -4,7 +4,7 @@ Last updated: 03/10/2024
 
 ## Codeforces
 
-Coordinated rounds in progress: 3
+Coordinated rounds in progress: None, not actively coordinating.
 
 | # | Title | Type | Rated | Blog | Date of Contest | Registrants | Role |
 | --- | ----- | ----- | --- | --- | ------- | --- | ---- |
@@ -25,6 +25,7 @@ Coordinated rounds in progress: 3
 
 | # | Competition Name | Location | Date of Contest | Role |
 | --- | ----- | ---- | ------- | ---- |
+| 3 | [Western European Olympiad in Informatics 2025](https://weoi.org/weoi-2025/) | Volterra, Italy | 28/Jun/2025 | International Scientific Committee |
 | 2 | [Western European Olympiad in Informatics 2024](https://weoi.org/weoi-2024/) | London, UK | 29/Jun/2024 | International Scientific Committee |
 | 1 | [Western European Olympiad in Informatics 2023](https://weoi.org/weoi-2023/) | Amsterdam, Netherlands | 17/Jun/2023 | International Scientific Committee |
 
